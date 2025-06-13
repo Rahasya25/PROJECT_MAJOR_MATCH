@@ -1,0 +1,30 @@
+pertanyaan,A,B,dimensi_a,dimensi_b
+Pilih yang paling sesuai dengan kamu:,Saya butuh banyak waktu untuk sendiri.,Saya lebih senang ada banyak orang di sekitar saya.,I,E
+Pilih yang paling sesuai dengan kamu:,Perhatian saya mudah teralihkan.,Saya dapat berkonsentrasi pada masalah yang sedang dihadapi.,E,I
+Pilih yang paling sesuai dengan kamu:,Saya tipe yang lebih pendiam dan menjajaki hubungan baru dengan hati-hati.,Saya merasa mudah mendekati orang lain dan menjalin hubungan baru.,I,E
+Pilih yang paling sesuai dengan kamu:,Saya berpikir masak-masak sebelum bertindak.,Saya sering membuat keputusan-keputusan seketika.,I,E
+Pilih yang paling sesuai dengan kamu:,Saya suka menghabiskan waktu luang sendirian dengan melamun.,Saya senang mengatur waktu luang saya dengan aktif dan bersama-sama dengan orang lain.,I,E
+Pilih yang paling sesuai dengan kamu:,Perhatian saya mudah teralihkan.,Saya dapat berkonsentrasi pada masalah yang sedang dihadapi.,E,I
+Pilih yang paling sesuai dengan kamu:,"Jika sesuatu membebani pikiran saya, saya segera mencoba mengatasinya sendiri.",Saya lebih senang mendiskusikan masalah dengan orang lain.,I,E
+Pilih yang paling sesuai dengan kamu:,"Ketika membuat keputusan, saya membiarkan diri dibimbing oleh intuisi saya.","Ketika membuat keputusan, saya membiarkan diri dibimbing oleh kelima indra saya.",N,S
+Pilih yang paling sesuai dengan kamu:,Saya tidak suka menggantungkan diri pada peruntungan.,Saya tidak suka ketika semua hal bisa diketahui sebelumnya dengan tepat.,S,N
+Pilih yang paling sesuai dengan kamu:,Saya lebih suka bekerja secara teoritis.,Saya lebih suka bekerja secara praktek.,N,S
+Pilih yang paling sesuai dengan kamu:,Saya biasanya tidak keberatan berbagi ruang dan waktu pribadi dengan orang lain.,Saya membutuhkan ruang pribadi sendiri dan banyak waktu untuk diri sendiri.,S,N
+Pilih yang paling sesuai dengan kamu:,Saya lebih suka bekerja secara garis besar tapi hasilnya biasanya tetap baik.,"Ketika bekerja, kekuatan saya antara lain adalah kesabaran dan ketelitian.",N,S
+Pilih yang paling sesuai dengan kamu:,Perhatian saya mudah teralihkan.,Saya dapat berkonsentrasi pada masalah yang sedang dihadapi.,S,N
+Pilih yang paling sesuai dengan kamu:,Saya selalu mencari ide-ide baru dan kemungkinan-kemungkinan pengembangan.,"Secara keseluruhan, saya puas dengan kehidupan saya.",N,S
+Pilih yang paling sesuai dengan kamu:,Saya lebih banyak melandaskan keputusan saya pada naluri.,Keputusan saya biasanya dilandaskan pada pertimbangan-pertimbangan logis.,F,T
+Pilih yang paling sesuai dengan kamu:,Saya suka bekerja dengan orang lain dan tidak memiliki masalah berempati dengan mereka serta menanggapi mereka.,"Dalam pekerjaan saya, diperlukan pemikiran analitis dan tindakan yang masuk akal.",F,T
+Pilih yang paling sesuai dengan kamu:,Saya biasanya melontarkan pendapat jujur saya.,Saya berusaha untuk tidak menyakiti orang lain dengan kata-kata saya.,T,F
+Pilih yang paling sesuai dengan kamu:,Saya cukup dapat menerima ketika seseorang mengkritik saya atau tidak menyukai saya.,Saya agak sensitif dan cepat tersinggung.,T,F
+Pilih yang paling sesuai dengan kamu:,Saya dengan cepat bisa merasa jika ada sesuatu yang diucapkan secara tersirat.,Berkata-kata halus bukanlah keahlian saya; seharusnya orang langsung saja mengatakan apa yang mereka inginkan.,F,T
+Pilih yang paling sesuai dengan kamu:,Saya menyukai diskusi dan bahkan berdebat demi sesuatu.,Saya berusaha menghindari perselisihan karena keselarasan sangat penting bagi saya.,T,F
+Pilih yang paling sesuai dengan kamu:,Saya mendengarkan perasaan-perasaan saya.,"Yang paling penting dari segalanya, saya membiarkan diri dibimbing oleh otak saya.",F,T
+Pilih yang paling sesuai dengan kamu:,Saya tidak merasa sulit mengerjakan beberapa hal pada waktu bersamaan.,"Saya biasanya tepat waktu dan dapat diandalkan, saya tidak suka ketika ada orang lain yang tidak tepat waktu.",P,J
+Pilih yang paling sesuai dengan kamu:,Bekerja dulu baru bersenang-senang .,Saya bekerja untuk hidup dan bukan sebaliknya.,J,P
+Pilih yang paling sesuai dengan kamu:,Saya sering kesulitan membuat keputusan karena saya suka membiarkan semua kemungkinan terbuka.,"Saya suka membuat keputusan yang cepat, jelas, dan berharap orang lain melakukan hal yang sama.",P,J
+Pilih yang paling sesuai dengan kamu:,Saya butuh keteraturan dan struktur dan saya kesal jika orang lain tidak berkerja sesuai rencana.,Spontanitas dan keluwesan lebih penting ketimbang kaidah dan peraturan.,J,P
+Pilih yang paling sesuai dengan kamu:,Saya merencanakan pekerjaan dengan matang sehingga tidak panik dan terburu-buru di belakang.,Sering terjadi saya tidak menyelesaikan pekerjaan hingga menit terakhir.,J,P
+Pilih yang paling sesuai dengan kamu:,Saya sudah tahu apa yang akan saya lakukan akhir pekan depan.,Saya sama sekali tidak tahu apa yang akan saya lakukan akhir pekan depan,J,P
+Pilih yang paling sesuai dengan kamu,"& C:/Users/Lenovo/AppData/Local/Programs/Python/Python313/python.exe ""c:/Users/Lenovo/OneDrive/Documents/KULIAH SEMESTER 2/ALGO/ALGO PROJECT/whattt.py""","Saya mempunyai kebiasaan buruk menunda-nunda, terutama hal-hal yang tidak menyenangkan.",J,P
+1,S,D,EDFG,DFER

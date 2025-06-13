@@ -1,0 +1,25 @@
+name,matematika,fisika,biologi,kimia,seni,bahasa indonesia,ekonomi,sejarah,agama,TIK,bahasa inggris,PKN,geografi,sosiologi,penjas,mbti
+Teknik Informatika,90,90,0,0,0,0,0,0,0,90,90,0,0,0,0,ISTJ;INFJ
+Teknik Elektro,90,90,0,0,0,0,0,0,0,0,90,0,0,0,0,ENTP;ESTP
+Teknik Geologi,90,90,0,90,0,0,0,0,0,0,0,0,0,0,0,INFJ;INTP
+Teknik Industri,90,90,0,0,0,0,0,0,0,0,0,0,0,0,0,INTJ;INFJ
+Kedokteran,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,ESTJ;ENFJ
+Farmasi,90,90,90,90,0,0,0,0,0,0,0,0,0,0,0,ESFJ;ENTP
+Matematika,90,90,0,0,0,0,0,0,0,0,90,0,0,0,0,ISTP;ISTJ
+Fisika,90,90,0,0,0,0,0,0,0,90,90,0,0,0,0,INFJ;INTJ
+Kimia,90,90,0,90,0,0,0,0,0,0,90,0,0,0,0,ESTJ;ESTP
+Biologi,90,0,90,0,0,0,0,0,0,0,0,0,0,0,0,ISFJ;INTP
+Teknik Arsitektur,0,0,0,0,90,0,0,0,0,90,0,0,0,0,0,ESTP;ENFP
+Teknik Mesin,90,90,0,0,0,0,0,0,0,0,90,0,0,0,0,ESTP;ENFP
+Teknik Perminyakan,90,90,0,90,0,0,0,0,0,90,90,0,0,0,0,INTJ;ISFJ
+Teknik Pertambangan,0,0,0,0,0,0,0,0,0,90,90,0,0,0,0,ENTP;ESFJ
+Teknik Sipil,90,0,0,0,0,0,0,0,0,0,90,0,0,0,0,INTJ;ISTJ
+Hubungan Internasional,0,0,0,0,0,0,0,0,0,0,90,90,0,90,0,ESTP;ENTP
+Psikologi,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,ENFJ;ESFJ
+Ilmu Komunikasi,0,0,0,0,0,0,0,0,0,0,0,90,0,90,0,ESTP;ENFJ
+Manajemen,0,0,0,0,0,0,90,0,0,0,90,0,0,0,0,ESTJ;ESTP
+Ilmu Ekonomi,90,0,0,0,0,0,90,0,0,0,90,0,0,0,0,ISTP;ISFJ
+Ilmu Hukum,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,INTP;ISFJ
+Akuntansi,90,0,0,0,0,0,90,0,0,0,90,0,0,0,0,INFJ;INTP
+Bahasa dan Sastra Indonesia,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,ENTP;ESTJ
+Bahasa dan Sastra Inggris,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,ESFJ;ESTJ
